@@ -12,3 +12,4 @@ Welcome to my research website.
 
 
 * [Teeth growth analysis](teeth.html)
+* [Link to Manasa's page](https://mans-p.github.io/reproducibility_myproject/index.html)
